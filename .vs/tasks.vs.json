@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-robit_intern_homework",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-robit_hw_01",
+      "appliesTo": "robit_hw_0716/robit_hw_01.cpp",
+      "type": "launch"
+    }
+  ]
+}
