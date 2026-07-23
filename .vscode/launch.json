@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/juwon/Documents/robit_intern_homework/robit_hw_0721",
-      "program": "/home/juwon/Documents/robit_intern_homework/robit_hw_0721/build/Debug/outDebug",
+      "cwd": "/home/juwon/Documents/robit_intern_homework/robit_hw_0723",
+      "program": "/home/juwon/Documents/robit_intern_homework/robit_hw_0723/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
